@@ -1,6 +1,0 @@
-pytest
-black
-isort
-pandas
-scikit-learn
-mlflow
